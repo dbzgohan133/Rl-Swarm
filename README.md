@@ -43,9 +43,12 @@ Use You Gensyn Address from [Dashboard](https://dashboard.gensyn.ai/) for more i
 
 # Last step
 -- Get the verification code:
+
 Go to Discord in #|swarm-link channel
+
 Type /link-telegram (this gives you a code)
 
 -- Verify the code:
 Go to your Telegram bot
+
 Type /verify <code> (replace <code> with the code you received)
